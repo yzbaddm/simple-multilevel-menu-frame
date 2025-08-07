@@ -50,4 +50,12 @@
 uint8_t Menu_QueueWrite(MenuEvent_t event);
 void Menu_Switch(Menu_t **pointer);
 
+/***************** 菜单文本显示功能区 **************************************************************************************/
+
+#define __MENU_ShowStr(x, y, name)    printf("%s", name)  // UTF8_ShowString(x, y, name)
+
+void Menu_ShowVerticalAxisTxt(MenuItem_t *menu, int16_t x, int16_t y, uint8_t itemlen, uint16_t len);
+
+
 #endif /* _MENU_H_ */
+
