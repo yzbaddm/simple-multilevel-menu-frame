@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/build",
+  "command": "\"D:\\C#huangji\\Vs_Code\\Min_Gw\\minGw_ucrt_14.2.0\\mingw64\\bin\\gcc.exe\"  @CMakeFiles/menu.dir/includes_C.rsp  -finput-charset=UTF-8 -fexec-charset=UTF-8 -g -std=gnu2x -o CMakeFiles\\menu.dir\\MyMenu\\MyMenu.c.obj -c D:\\xuexi\\Singlechip_total\\code_VScode\\vs_code_project\\C\\Routine\\menu\\MyMenu\\MyMenu.c",
+  "file": "D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/MyMenu/MyMenu.c",
+  "output": "CMakeFiles/menu.dir/MyMenu/MyMenu.c.obj"
+},
+{
+  "directory": "D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/build",
+  "command": "\"D:\\C#huangji\\Vs_Code\\Min_Gw\\minGw_ucrt_14.2.0\\mingw64\\bin\\gcc.exe\"  @CMakeFiles/menu.dir/includes_C.rsp  -finput-charset=UTF-8 -fexec-charset=UTF-8 -g -std=gnu2x -o CMakeFiles\\menu.dir\\multilevel_menu\\Menu.c.obj -c D:\\xuexi\\Singlechip_total\\code_VScode\\vs_code_project\\C\\Routine\\menu\\multilevel_menu\\Menu.c",
+  "file": "D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/multilevel_menu/Menu.c",
+  "output": "CMakeFiles/menu.dir/multilevel_menu/Menu.c.obj"
+},
+{
+  "directory": "D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/build",
+  "command": "\"D:\\C#huangji\\Vs_Code\\Min_Gw\\minGw_ucrt_14.2.0\\mingw64\\bin\\gcc.exe\"  @CMakeFiles/menu.dir/includes_C.rsp  -finput-charset=UTF-8 -fexec-charset=UTF-8 -g -std=gnu2x -o CMakeFiles\\menu.dir\\main\\main.c.obj -c D:\\xuexi\\Singlechip_total\\code_VScode\\vs_code_project\\C\\Routine\\menu\\main\\main.c",
+  "file": "D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/main/main.c",
+  "output": "CMakeFiles/menu.dir/main/main.c.obj"
+}
+]

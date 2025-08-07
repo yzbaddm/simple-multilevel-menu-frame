@@ -1,0 +1,16 @@
+CMakeFiles/menu.dir/multilevel_menu/Menu.c.obj: \
+ D:\xuexi\Singlechip_total\code_VScode\vs_code_project\C\Routine\menu\multilevel_menu\Menu.c \
+ D:\xuexi\Singlechip_total\code_VScode\vs_code_project\C\Routine\menu\multilevel_menu\Menu.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h

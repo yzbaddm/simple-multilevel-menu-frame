@@ -1,0 +1,22 @@
+CMakeFiles/menu.dir/MyMenu/MyMenu.c.obj: \
+ D:\xuexi\Singlechip_total\code_VScode\vs_code_project\C\Routine\menu\MyMenu\MyMenu.c \
+ D:\xuexi\Singlechip_total\code_VScode\vs_code_project\C\Routine\menu\MyMenu\MyMenu.h \
+ D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/multilevel_menu/Menu.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/C\#huangji/Vs_Code/Min_Gw/minGw_ucrt_14.2.0/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h

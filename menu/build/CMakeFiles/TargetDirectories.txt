@@ -1,0 +1,3 @@
+D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/build/CMakeFiles/menu.dir
+D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/build/CMakeFiles/edit_cache.dir
+D:/xuexi/Singlechip_total/code_VScode/vs_code_project/C/Routine/menu/build/CMakeFiles/rebuild_cache.dir
