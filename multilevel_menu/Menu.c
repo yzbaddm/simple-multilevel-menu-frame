@@ -120,3 +120,26 @@ void Menu_Switch(Menu_t **pointer)
     }
     temp->callback(temp->menu, temp->index, temp->itemlen);
 }
+
+/********* 菜单文本显示功能函数 *******************************************************************************************************************/
+
+/**
+ * @brief 纵轴显示多项文本
+ * 
+ * @param menu      菜单指针
+ * @param x         基准 X坐标
+ * @param y         基准 Y坐标
+ * @param itemlen   菜单项要显示的个数
+ * @param skewingLen       文本显示 Y轴偏移, 一般为字体大小
+ * @return NULL
+ */
+void Menu_ShowVerticalAxisTxt(MenuItem_t *menu, int16_t x, int16_t y, uint8_t itemlen, uint16_t skewingLen)
+{
+    int32_t shiftingY;
+    for (uint8_t index = 0; index < itemlen; index ++)
+    {
+        shiftingY = y + (index * skewingLen);  // 计算 Y轴偏移
+
+        __MENU_ShowStr(x, shiftingY, menu[index].name);
+    }
+}
